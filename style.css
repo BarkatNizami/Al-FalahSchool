@@ -24,7 +24,7 @@ body {
     background-position: top;
     position: relative;
 
-    clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 85%, 0 95%);
 }
 
 .logo-box {
