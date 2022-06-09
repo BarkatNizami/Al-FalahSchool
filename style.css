@@ -123,6 +123,9 @@ body {
 .btn-white {
     background-color: white;
     color: #777;
+}
+
+.btn {
     animation: moveToTop 2s;
 }
 
